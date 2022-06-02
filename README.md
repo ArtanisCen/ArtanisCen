@@ -10,8 +10,13 @@ Here are some ideas to get you started:
 - 😄 Hobby: APEX，LOL
 
 ⏳ **ArtanisCen's life progrss bar** 
-  <div>
+
+<a >
   <img align="center" src="https://life-progress-bar.vercel.app/api/?username=ArtanisCen&theme=vue&locale=cn" />
-  </div>
+</a>
   
 🚀 **ArtanisCen's get**
+
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtanisCen&theme=material-palenight" />
+</a>
